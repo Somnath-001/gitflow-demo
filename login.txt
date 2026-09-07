@@ -2,4 +2,8 @@ Student Login Feature
 Username: SRN
 Authentication: Fixed
 Security: Updated
+<<<<<<< HEAD
 Status: Feature one
+=======
+Status: Feature Two
+>>>>>>> feature/change-two
